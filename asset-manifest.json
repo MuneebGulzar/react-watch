@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MuneebGulzar/react-watch.git./static/css/main.1d5bcdd6.css",
-    "main.js": "/MuneebGulzar/react-watch.git./static/js/main.f063d55b.js",
-    "static/js/787.c75d6cda.chunk.js": "/MuneebGulzar/react-watch.git./static/js/787.c75d6cda.chunk.js",
-    "static/media/logo.svg": "/MuneebGulzar/react-watch.git./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/MuneebGulzar/react-watch.git./index.html",
-    "main.1d5bcdd6.css.map": "/MuneebGulzar/react-watch.git./static/css/main.1d5bcdd6.css.map",
-    "main.f063d55b.js.map": "/MuneebGulzar/react-watch.git./static/js/main.f063d55b.js.map",
-    "787.c75d6cda.chunk.js.map": "/MuneebGulzar/react-watch.git./static/js/787.c75d6cda.chunk.js.map"
+    "main.css": "/react-watch/static/css/main.1d5bcdd6.css",
+    "main.js": "/react-watch/static/js/main.9e179384.js",
+    "static/js/787.c75d6cda.chunk.js": "/react-watch/static/js/787.c75d6cda.chunk.js",
+    "static/media/logo.svg": "/react-watch/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-watch/index.html",
+    "main.1d5bcdd6.css.map": "/react-watch/static/css/main.1d5bcdd6.css.map",
+    "main.9e179384.js.map": "/react-watch/static/js/main.9e179384.js.map",
+    "787.c75d6cda.chunk.js.map": "/react-watch/static/js/787.c75d6cda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d5bcdd6.css",
-    "static/js/main.f063d55b.js"
+    "static/js/main.9e179384.js"
   ]
 }
