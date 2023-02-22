@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
-*{
+
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   user-select: none;
 }
-.container{
+
+.container {
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -15,23 +17,32 @@
   color: #fff;
   font-family: 'Outfit', sans-serif;
   font-weight: 700;
+  background: rgb(131,58,180);
+  background: linear-gradient(158deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); ;
 }
 
-.watchContainer{
-  width: 83%;
+.watchContainer {
+  width: 50%;
   height: 50%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: .3rem solid #fff;
+  /* border-style: groove;
+  border: .3rem solid green;
+  border-radius: 50px; */
+  background: rgb(0,13,36);
+  background: linear-gradient(90deg, rgba(0,13,36,1) 2%, rgba(9,16,121,1) 37%, rgba(169,0,255,1) 79%) border-box; 
+  border-radius: 50em;
+  border: 4px solid transparent;
 }
 
-.watchContainer:hover{
+.watchContainer:hover {
   box-shadow: 0 0 2rem #fff;
   cursor: pointer;
 }
-.hContainer{
+
+.hContainer {
   width: 33%;
   height: 100%;
   display: flex;
@@ -40,24 +51,24 @@
   font-size: 5rem;
 }
 
-@media screen and (min-width: 481px) and (max-width: 768px){
-  .watchContainer{
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  .watchContainer {
     width: 60%;
     height: 40%;
     flex-direction: row;
   }
 }
 
-@media screen and (min-width: 769px) and (max-width: 1279px){
-  .watchContainer{
+@media screen and (min-width: 769px) and (max-width: 1279px) {
+  .watchContainer {
     width: 60%;
     height: 40%;
     flex-direction: row;
   }
 }
 
-@media screen and (min-width: 1280px){
-  .watchContainer{
+@media screen and (min-width: 1280px) {
+  .watchContainer {
     width: 33%;
     height: 40%;
     flex-direction: row;
