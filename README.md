@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-Open [https://muneebgulzar.github.io/react-watch/](https://muneebgulzar.github.io/react-watch/) to view it in your browser.
+(https://muneebgulzar.github.io/react-watch/) to view it in your browser.
 
 ## Available Scripts
 
