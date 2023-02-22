@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import { useState, useEffect } from 'react';
-
+import {VscGithub} from 'react-icons/vsc';
 
 function App() {
   let fecha = new Date();
@@ -27,6 +26,7 @@ function App() {
         <div className="hContainer">{minutos >= 10 ? minutos : '0' + minutos}</div> :
         <div className="hContainer">{segundos >= 10 ? segundos : '0' + segundos}</div>
       </div>
+      <span><a href="https://github.com/MuneebGulzar" target='_blank'><VscGithub /> Muneeb Gulzar</a></span>
     </div>
   );
 }
