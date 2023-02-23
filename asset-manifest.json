@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-watch/static/css/main.dccc6ce5.css",
-    "main.js": "/react-watch/static/js/main.d9c277da.js",
+    "main.css": "/react-watch/static/css/main.bc4c115d.css",
+    "main.js": "/react-watch/static/js/main.8e0923a7.js",
     "static/js/787.c75d6cda.chunk.js": "/react-watch/static/js/787.c75d6cda.chunk.js",
     "index.html": "/react-watch/index.html",
-    "main.dccc6ce5.css.map": "/react-watch/static/css/main.dccc6ce5.css.map",
-    "main.d9c277da.js.map": "/react-watch/static/js/main.d9c277da.js.map",
+    "main.bc4c115d.css.map": "/react-watch/static/css/main.bc4c115d.css.map",
+    "main.8e0923a7.js.map": "/react-watch/static/js/main.8e0923a7.js.map",
     "787.c75d6cda.chunk.js.map": "/react-watch/static/js/787.c75d6cda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dccc6ce5.css",
-    "static/js/main.d9c277da.js"
+    "static/css/main.bc4c115d.css",
+    "static/js/main.8e0923a7.js"
   ]
 }
